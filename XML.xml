@@ -1,0 +1,29 @@
+<CarRecords>
+	<Car>
+		<Name>
+			"Beetle"
+		</Name>
+		
+		<Manufacturer>
+			"Volkswagen"
+		</Manufacturer>
+		
+		<Year>
+			"1963"
+		</Year>
+	</Car>
+	
+	<Car>
+		<Name>
+			"Miller-Meteor"
+		</Name>
+		
+		<Manufacturer>
+			"Cadillac"
+		</Manufacturer>
+		
+		<Year>
+			"1959"
+		</Year>
+	</Car>
+</CarRecords>

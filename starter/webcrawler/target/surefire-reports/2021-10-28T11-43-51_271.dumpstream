@@ -1,0 +1,4 @@
+# Created at 2021-10-28T11:43:51.665
+Boot Manifest-JAR contains absolute paths in classpath 'D:\onedrive_neu\OneDrive - Northeastern University\projects\java\nd079-c2-advanced-java-programming-techniques-projectstarter-master\starter\webcrawler\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
